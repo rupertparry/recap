@@ -7,6 +7,8 @@ export default class NavBar extends Component {
     let style = {
       position: 'fixed',
       top: 0,
+      left: 0,
+      right: 0,
       paddingLeft: 15,
       paddingRight: 15,
       paddingTop: 15,
